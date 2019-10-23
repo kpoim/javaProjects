@@ -1,2 +1,2 @@
-# newRepo
-This is my first repository
+# javaProjects
+Daily projects in java.
